@@ -1,0 +1,6 @@
+streamlit==1.50.0
+pillow==10.2.0
+rembg==2.0.56
+numpy==2.3.3
+onnxruntime==1.17.1
+gunicorn==21.2.0
